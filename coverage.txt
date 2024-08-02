@@ -1,0 +1,6 @@
+Uncovered for src/DSCEngine.sol:
+
+- Function "getAccountCollateralValue" (location: source ID 36, line 311, chars 12683-13219, hits: 0)
+- Line (location: source ID 36, line 318, chars 13180-13212, hits: 0)
+- Statement (location: source ID 36, line 318, chars 13180-13212, hits: 0)
+
